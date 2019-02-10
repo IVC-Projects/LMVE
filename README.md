@@ -14,7 +14,7 @@ ___
 ![](https://github.com/IVC-Projects/LMVE/blob/master/READYME_PNG/主观图排版_LMVE.png)<br>
 
 
-# For more details on the experiment section, upload it as soon as possible.
-## 表捉急哈，我先出去吃烤肉啦，明天再接着弄哈~
+# For more details on the experiment section, I will upload it as soon as possible.
+## 各位观众，表捉急哈，我先出去吃烤肉啦，明天再接着弄哈~
                                                      ---tjc
                                                     2019.2.10
