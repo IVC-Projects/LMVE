@@ -6,8 +6,8 @@ Junchao Tong*, Xilin Wu*, Dandan Ding*, Zheng Zhu**, Zoe Liu**<br>
 ___
 * ### Example of the subjective quality for the HEVC compressed video(the 1st column and the 2nd column) and the preprocessed frames(MF、HF).
     `Here, MF is the Moderate-quality Frame and HF is the High-quality Frame.`
-<br>
-![](https://github.com/IVC-Projects/LMVE/blob/master/READYME_PNG/主观图排版_wraped.png)<br>
+    
+![](https://github.com/IVC-Projects/LMVE/blob/master/READYME_PNG/主观图排版_wraped.png)
 
 ___
 * ### Subjective quality performance on *FourPeople* and *BasketballPass* at QP=37 in RA configuration.
