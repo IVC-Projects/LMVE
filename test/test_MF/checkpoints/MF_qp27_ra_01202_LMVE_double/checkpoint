@@ -1,0 +1,2 @@
+model_checkpoint_path: "MF_qp27_ra_01202_MFVD_double_201.ckpt"
+all_model_checkpoint_paths: "MF_qp27_ra_01202_MFVD_double_201.ckpt"

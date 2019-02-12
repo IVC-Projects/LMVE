@@ -1,0 +1,2 @@
+model_checkpoint_path: "SF_qp32_ra_01242_VDSRSingle_185.ckpt"
+all_model_checkpoint_paths: "SF_qp32_ra_01242_VDSRSingle_185.ckpt"
