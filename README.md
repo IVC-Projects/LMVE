@@ -29,5 +29,5 @@ The open source address for MFQE is: https://github.com/ryangBUAA/MFQE
 ___
 Thanks for reading!
 <br>
-best wishes!<br>
-Junchao Tong*
+best wishes,<br>
+Junchao Tong.
