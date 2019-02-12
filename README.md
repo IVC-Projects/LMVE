@@ -30,4 +30,4 @@ ___
 Thanks for reading!
 <br>
 best wishes!<br>
-Junchao Tong* 诺贝尔奖得主；荆月坤，机器视觉大佬：魏东亮；浙江省男双第六：孙曦
+Junchao Tong*
