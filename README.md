@@ -15,12 +15,20 @@ ___
 
 ___
 ## The experiment section
-### * 1.Performance of our proposed LMVE in comparison with LSVE and HEVC in terms of PSNR(dB).
+### 1.Performance of our proposed LMVE in comparison with LSVE and HEVC in terms of PSNR(dB).
 
 ![](https://github.com/IVC-Projects/LMVE/blob/master/READYME_PNG/LMVE_qpx4.png)
 <br>
+
+### 2.Performance of LMVE Compared with MFQE at QP=37.
+
 ![](https://github.com/IVC-Projects/LMVE/blob/master/READYME_PNG/compareWithMFQE.png)
 <br>
+<br>
+The architecture of the QE-subnet is shown in Figure 6, and the details of the convolutional layers are presented in Table 3.
+![](https://github.com/IVC-Projects/LMVE/blob/master/READYME_PNG/QE-subnet.png)
+
+### 3.PSNR(dB) results of each frame in the first 21 frames on the FourPeople and PeopleOnStreet sequences.
 ![](https://github.com/IVC-Projects/LMVE/blob/master/READYME_PNG/results_of_each_frame.png)
 * `For more details on the experiment section, you can download the "experiment_tjc.xlsx" file in the current web page`
 
