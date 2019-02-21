@@ -25,7 +25,7 @@ ___
 ![](https://github.com/IVC-Projects/LMVE/blob/master/READYME_PNG/compareWithMFQE.png)
 <br>
 <br>
-The architecture of the QE-subnet is shown in Figure 6, and the details of the convolutional layers are presented in Table 3.
+`The architecture of the QE-subnet is shown in Figure 6, and the details of the convolutional layers are presented in Table 3.`
 ![](https://github.com/IVC-Projects/LMVE/blob/master/READYME_PNG/QE-subnet.png)
 
 ### 3.PSNR(dB) results of each frame in the first 21 frames on the FourPeople and PeopleOnStreet sequences.
